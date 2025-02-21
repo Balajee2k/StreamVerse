@@ -55,7 +55,7 @@ Ensure you have the following installed:
    cd StreamVerse
 
 ## Future Enhancements
-**Real-time Chat:** Integration of live chat features during video streams.
-**Analytics Dashboard:** Implementation of analytics to track video views, user engagement, and post performance.
-**Enhanced Social Features:** Adding functionalities such as retweets/shares, hashtags, and trending topics.
-**Admin Panel:** Development of an admin dashboard for content moderation and user management.
+1. **Real-time Chat:** Integration of live chat features during video streams.
+2. **Analytics Dashboard:** Implementation of analytics to track video views, user engagement, and post performance.
+3. **Enhanced Social Features:** Adding functionalities such as retweets/shares, hashtags, and trending topics.
+4. **Admin Panel:** Development of an admin dashboard for content moderation and user management.
